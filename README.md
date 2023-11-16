@@ -73,4 +73,4 @@ If you discover a security vulnerability within LunaToolbox, please send an e-ma
 
 
 ### License
-The LunaToolbox framework is closed software and required a license key.
+The LunaToolbox framework is open-sourced software licensed under the MIT license.
