@@ -3,17 +3,18 @@
 The LunaToolbox simple PHP Framework
 
 <p align="center">
-<a href="https://github.com/plotnicsystems/lunatoolbox/actions/workflows/codeql-analysis.yml">
-    <img src="https://github.com/plotnicsystems/lunatoolbox/actions/workflows/codeql-analysis.yml/badge.svg" alt="CodeQL">
-</a>
-<a href="https://github.com/plotnicsystems/lunatoolbox/actions/workflows/ci.yml">
-        <img src="https://github.com/plotnicsystems/lunatoolbox/actions/workflows/ci.yml/badge.svg" alt="CI Tests">
-</a>
-<a href="https://wakatime.com/@99cd0cde-2b33-42da-9915-2d87d65aa19c">
+
+<a href="https://wakatime.com/@99cd0cde-2b33-42da-9915-2d87d65aa19c" style="text-decoration: none !important;">
     <img src="https://wakatime.com/badge/user/99cd0cde-2b33-42da-9915-2d87d65aa19c.svg" alt="Total time coded since Sep 16 2023" />
-</a>
-<a href="https://packagist.org/packages/plotnicsystems/lunatoolbox">
+</a>&nbsp;
+<a href="https://packagist.org/packages/plotnicsystems/lunatoolbox" style="text-decoration: none !important;">
+    <img src="https://img.shields.io/packagist/v/plotnicsystems/lunatoolbox" alt="Latest Stable Version">
+</a>&nbsp;
+<a href="https://packagist.org/packages/plotnicsystems/lunatoolbox" style="text-decoration: none !important;">
     <img src="https://img.shields.io/packagist/l/plotnicsystems/lunatoolbox" alt="License">
+</a>&nbsp;
+<a href="https://packagist.org/packages/plotnicsystems/lunatoolbox" style="text-decoration: none !important;">
+    <img src="https://img.shields.io/packagist/dt/plotnicsystems/lunatoolbox" alt="Total Downloads">
 </a>
 </p>
 
@@ -34,7 +35,7 @@ LunaToolbox default authentication.
 ```bash
 composer require plotnicsystems/lunatoolbox-auth
 ```
-Register the LunaToolbox auth provider 
+Register the LunaToolbox auth provider
 ```LunaToolbox\LunaToolboxAuth\Illuminate\Foundation\Support\LunaToolboxauthServiceProvider``` at ```config/app.php```
 ```php
 ...
