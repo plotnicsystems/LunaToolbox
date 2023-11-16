@@ -2,20 +2,12 @@
 
 The LunaToolbox simple PHP Framework
 
-<p align="center">
+<p align="center" style="text-decoration: none !important;">
+<img src="https://wakatime.com/badge/user/99cd0cde-2b33-42da-9915-2d87d65aa19c.svg" onclick="window.location.href='';" alt="Total time coded since Sep 16 2023" />&nbsp;
+<img src="https://img.shields.io/packagist/v/plotnicsystems/lunatoolbox" alt="Latest Stable Version">&nbsp;
+<img src="https://img.shields.io/packagist/l/plotnicsystems/lunatoolbox" alt="License">&nbsp;
+<img src="https://img.shields.io/packagist/dt/plotnicsystems/lunatoolbox" alt="Total Downloads">
 
-<a href="https://wakatime.com/@99cd0cde-2b33-42da-9915-2d87d65aa19c" style="text-decoration: none !important;">
-    <img src="https://wakatime.com/badge/user/99cd0cde-2b33-42da-9915-2d87d65aa19c.svg" alt="Total time coded since Sep 16 2023" />
-</a>&nbsp;
-<a href="https://packagist.org/packages/plotnicsystems/lunatoolbox" style="text-decoration: none !important;">
-    <img src="https://img.shields.io/packagist/v/plotnicsystems/lunatoolbox" alt="Latest Stable Version">
-</a>&nbsp;
-<a href="https://packagist.org/packages/plotnicsystems/lunatoolbox" style="text-decoration: none !important;">
-    <img src="https://img.shields.io/packagist/l/plotnicsystems/lunatoolbox" alt="License">
-</a>&nbsp;
-<a href="https://packagist.org/packages/plotnicsystems/lunatoolbox" style="text-decoration: none !important;">
-    <img src="https://img.shields.io/packagist/dt/plotnicsystems/lunatoolbox" alt="Total Downloads">
-</a>
 </p>
 
 ### Installation
